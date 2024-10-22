@@ -6,10 +6,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "intro lab",
+    "express",
+    "javascript",
+    "Full Stack"
+  ],
+  "author": "sjs29",
   "license": "ISC",
-  "description": "",
+  "description": "Intro to Express Lab",
   "dependencies": {
     "express": "^4.21.1"
   }
